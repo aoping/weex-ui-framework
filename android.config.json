@@ -1,0 +1,8 @@
+
+{
+  "AppName": "WeexApp",
+  "AppId": "com.ui.weex",
+  "SplashText": "HelloWeex",
+  "WeexBundle": "weex/views/home.js"
+}
+

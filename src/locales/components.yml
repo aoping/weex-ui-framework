@@ -1,0 +1,15 @@
+en:
+  cancel_text: cancel
+  confirm_text: ok
+  back_text: Back
+  cancel: cancel
+zh-CN:
+  cancel_text: 取消
+  confirm_text: 完成
+  back_text: 返回
+  cancel: 取消
+zh:
+  cancel_text: cancel_text
+  confirm_text: confirm_text
+  back_text: back_text
+  cancel: cancel

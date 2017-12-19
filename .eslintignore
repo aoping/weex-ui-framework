@@ -1,0 +1,9 @@
+build/*.js
+config/*.js
+abdroid/*.js
+platforms/*.js
+ios/*.js
+web/*.js
+src/mock/*.js
+dist/*.js
+node_modules/*.js
